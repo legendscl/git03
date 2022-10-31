@@ -5,5 +5,6 @@ public class gittet01 {
         System.out.println("hello weorld3!");
         System.out.println("master test!");
         System.out.println("hotfix test");
+        System.out.println("pull test");
     }
 }
