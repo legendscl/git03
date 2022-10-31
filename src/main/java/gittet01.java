@@ -3,6 +3,6 @@ public class gittet01 {
         System.out.println("hello weorld!");
         System.out.println("hello weorld2!");
         System.out.println("hello weorld3!");
-        System.out.println("hello weorld4!");
+        System.out.println("master test!");
     }
 }
